@@ -6,5 +6,5 @@
 | 팀원      | 이종주 | 산업시스템공학과 | 2021112456 | LJongJoo      |
 
 
-![예시 이미지](../Desktop/test.png)
+![예시 이미지](C:\Users\tlzhs\Desktop\test.png)
 
